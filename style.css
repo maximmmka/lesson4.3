@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+}
+
+.headers {
+  text-align: center;
+  background-color: #eeb265;
+}
+
+.input {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 30px;
+}
+.input:hover {
+  cursor: pointer;
+  color: #eeb265;
+  box-shadow: 0 0 4px #eeb265;
+}
+.send {
+  display: block;
+  margin: 0 auto;
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #000000;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 5px; 
+  margin-bottom: 30px;
+}
+.send:hover {
+  cursor: pointer;
+  color: #eeb265;
+  box-shadow: 0 0 4px #eeb265;
+}
+.send:active {
+  color: #08c9ff;
+  box-shadow: 0 0 7px #08c9ff;
+}
+
+.table {
+  margin: 0 auto;
+}
+.tableHeaders {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 20px;
+  border: 2px solid #000000;
+  padding: 5px;
+}
+.slot {
+  border: 1px solid #000000;
+  padding: 3px;
+}
+.made {
+  color: #08c9ff;  
+}
+.inProgress {
+  color: #d2b881;
+}
+.links {
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #000000;
+  border: 3px solid #000000;
+  margin: 5px;
+}
+.links:hover {
+  background: #eeb265;
+  border: 3px solid #d2b881;
+}
+.delite {
+  color: #f66262;
+}
+.wapper {
+  margin-top: 50px;
+}
+
